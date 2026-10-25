@@ -1,0 +1,17 @@
+{
+  "project_id": 1142467,
+  "project_name": "xG24 Waste Sorting",
+  "model_architecture": "MobileNetV1 0.25",
+  "quantization": "INT8",
+  "input_width": 96,
+  "input_height": 96,
+  "color_channels": 3,
+  "classes": [
+    "cardboard",
+    "metal",
+    "nothing",
+    "paper",
+    "plastic"
+  ],
+  "trained_date": "2026-10-15"
+}
